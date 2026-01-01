@@ -1,4 +1,4 @@
-# sternenregen-2016
-Season Greetings 2016 from goYippi design
+# neujahrsgruss-2025
+Season Greetings 2025 from goYippi design
 
-https://goyippi-labs.github.io/sternenregen-2016/
+https://goyippi-labs.github.io/neujahrsgruss-2025/
